@@ -1,3 +1,5 @@
 # Formulario de contato
 
-![formSimples](https://user-images.githubusercontent.com/34290569/100479438-fcf04b00-30cc-11eb-93f5-5a8ceedb973a.PNG)
+### Um formulário simples onde o usuário envia informações como: nome, email e telefone
+
+- Veja o projeto funcionando em: 
